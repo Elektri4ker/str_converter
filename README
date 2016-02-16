@@ -1,13 +1,13 @@
-[EN]
+п»ї[EN]
 A small lib for converting a set of numbers to string representation and back.
 
-str_converter.h - interface header with 2 functions: num2str и str2num
+str_converter.h - interface header with 2 functions: num2str Рё str2num
 str_converter.cpp - implementation
 main.cpp - an app that shows usage of this functional
 
 [RUS]
-Небольшая библиотека, реализующая преобразование набора чисел в строковое представление и обратно.
+РќРµР±РѕР»СЊС€Р°СЏ Р±РёР±Р»РёРѕС‚РµРєР°, СЂРµР°Р»РёР·СѓСЋС‰Р°СЏ РїСЂРµРѕР±СЂР°Р·РѕРІР°РЅРёРµ РЅР°Р±РѕСЂР° С‡РёСЃРµР» РІ СЃС‚СЂРѕРєРѕРІРѕРµ РїСЂРµРґСЃС‚Р°РІР»РµРЅРёРµ Рё РѕР±СЂР°С‚РЅРѕ.
 
-str_converter.h - заголовок с интерфейсом для двух функций преобразования: num2str и str2num
-str_converter.cpp - реализация
-main.cpp - программа, показывающая применение данного функционала
+str_converter.h - Р·Р°РіРѕР»РѕРІРѕРє СЃ РёРЅС‚РµСЂС„РµР№СЃРѕРј РґР»СЏ РґРІСѓС… С„СѓРЅРєС†РёР№ РїСЂРµРѕР±СЂР°Р·РѕРІР°РЅРёСЏ: num2str Рё str2num
+str_converter.cpp - СЂРµР°Р»РёР·Р°С†РёСЏ
+main.cpp - РїСЂРѕРіСЂР°РјРјР°, РїРѕРєР°Р·С‹РІР°СЋС‰Р°СЏ РїСЂРёРјРµРЅРµРЅРёРµ РґР°РЅРЅРѕРіРѕ С„СѓРЅРєС†РёРѕРЅР°Р»Р°
