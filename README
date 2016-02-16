@@ -1,0 +1,13 @@
+[EN]
+A small lib for converting a set of numbers to string representation and back.
+
+str_converter.h - interface header with 2 functions: num2str и str2num
+str_converter.cpp - implementation
+main.cpp - an app that shows usage of this functional
+
+[RUS]
+Небольшая библиотека, реализующая преобразование набора чисел в строковое представление и обратно.
+
+str_converter.h - заголовок с интерфейсом для двух функций преобразования: num2str и str2num
+str_converter.cpp - реализация
+main.cpp - программа, показывающая применение данного функционала
